@@ -1353,12 +1353,12 @@
                         alt="brand image"></a>
                 <a href="#" class="client-logo-item"><img src="{{ asset('assets/images/sponsor-img2.png') }}" style="width: 100px;height: 100px"
                         alt="brand image"></a>
-                {{-- <a href="#" class="client-logo-item"><img src="{{ asset('assets/images/sponsor-img3.png') }}"
+                <a href="#" class="client-logo-item"><img src="{{ asset('assets/images/sponsor-img3.jpeg') }}"
                         alt="brand image"></a>
-                <a href="#" class="client-logo-item"><img src="{{ asset('assets/images/sponsor-img4.png') }}"
+                <a href="#" class="client-logo-item"><img src="{{ asset('assets/images/sponsor-img4.jpeg') }}"
                         alt="brand image"></a>
                 <a href="#" class="client-logo-item"><img src="{{ asset('assets/images/sponsor-img5.png') }}"
-                        alt="brand image"></a> --}}
+                        alt="brand image"></a>
             </div><!-- end client-logo-carousel -->
         </div><!-- end container -->
     </section><!-- end client-logo-area -->
