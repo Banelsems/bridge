@@ -211,15 +211,15 @@
                     <h2 class="section__title pb-3 lh-50">Our Story</h2>
                     <p class="section__desc">SOur organization was founded to bridge cultures and foster intercultural
                         communication. We aim to enhance Benin's socio-cultural and economic presence on national,
-                        regional, and international stages.
+                        regional, and international stages.<br>
 
                         We focus on developing linguistic and communication skills for all stakeholders, supporting
                         public and private institutions, and strengthening human resource capacities. Our tailored
-                        language services help organizations achieve their goals and make a meaningful impact.
+                        language services help organizations achieve their goals and make a meaningful impact.<br>
 
                         Our mission includes promoting Beninese culture and embracing diverse foreign and diasporic
                         values. By connecting Beninese culture with the world, we create opportunities for cultural
-                        exchange and mutual growth.
+                        exchange and mutual growth.<br>
 
                         Join us in celebrating diversity and building connections for a more inclusive and understanding
                         world.</p>
