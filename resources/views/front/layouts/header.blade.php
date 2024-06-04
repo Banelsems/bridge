@@ -87,19 +87,19 @@
                                         <a href="{{ route('about') }}" class="">About </a>
                                     </li>
                                     <li>
-                                        <a href="#" class="">Courses </a>
+                                        <a href="{{ route('courses') }}" class="">Courses </a>
                                     </li>
-                                    <li>
+                                    {{-- <li>
                                         <a href="#" class="">Teachers </a>
                                     </li>
                                     <li>
                                         <a href="#" class="">Blog </a>
+                                    </li> --}}
+                                    <li>
+                                        <a href="{{ route('faqs') }}" class="">FAQs </a>
                                     </li>
                                     <li>
-                                        <a href="#" class="">FAQs </a>
-                                    </li>
-                                    <li>
-                                        <a href="#" class="">Contact </a>
+                                        <a href="{{ route('contact') }}" class="">Contact </a>
                                     </li>
 
                                     {{-- <li>

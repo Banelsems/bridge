@@ -8,6 +8,6 @@ class Faqs extends Component
 {
     public function render()
     {
-        return view('livewire.front.faqs')->extends('livewire.front.layouts.master')->section('main-content');
+        return view('livewire.front.faqs')->extends('front.layouts.master')->section('main-content');
     }
 }

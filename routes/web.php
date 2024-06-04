@@ -20,11 +20,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('livewire.front.layouts.master');
-});
-
-// Route::redirect('/', '/home', 301); 
+Route::redirect('/', '/home', 301); 
 
 Route::get('/home', Home::class)->name('home');
 

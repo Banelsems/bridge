@@ -12,13 +12,13 @@ class Master extends Component
     {
         $this->activeTab = 'home';
     }
-    
+
     public function setActiveTab($tab)
     {
         $this->activeTab = $tab;
     }
     public function render()
     {
-        return view('livewire.front.layouts.master')->extends('livewire.front.layouts.master')->section('main-content');
+        return view('livewire.front.layouts.master')->extends('front.layouts.master')->section('main-content');
     }
 }

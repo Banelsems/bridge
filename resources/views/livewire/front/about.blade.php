@@ -153,14 +153,14 @@
                         <div class="col-lg-6 responsive-column-half">
                             <div class="img-box">
                                 <img src="{{ asset('assets/images/img-loading.png') }}"
-                                    data-src="{{ asset('assets/images/img8.jpg') }}" alt="our mission image"
+                                    data-src="{{ asset('assets/images/OurMission2.jpg') }}" alt="our mission image"
                                     class="img-fluid lazy rounded-rounded">
                             </div>
                         </div><!-- end col-lg-6 -->
                         <div class="col-lg-6 responsive-column-half">
                             <div class="img-box my-3">
                                 <img src="{{ asset('assets/images/img-loading.png') }}"
-                                    data-src="{{ asset('assets/images/img10.jpg') }}" alt="our mission image"
+                                    data-src="{{ asset('assets/images/OurMission3.jpg') }}" alt="our mission image"
                                     class="img-fluid lazy rounded-rounded">
                             </div>
                         </div><!-- end col-lg-6 -->
@@ -209,17 +209,17 @@
             <div class="story-content text-center">
                 <div class="section-heading') }}">
                     <h2 class="section__title pb-3 lh-50">Our Story</h2>
-                    <p class="section__desc">SOur organization was founded to bridge cultures and foster intercultural
+                    <p class="section__desc">Our organization was founded to bridge cultures and foster intercultural
                         communication. We aim to enhance Benin's socio-cultural and economic presence on national,
-                        regional, and international stages.<br>
+                        regional, and international stages.
 
                         We focus on developing linguistic and communication skills for all stakeholders, supporting
                         public and private institutions, and strengthening human resource capacities. Our tailored
-                        language services help organizations achieve their goals and make a meaningful impact.<br>
+                        language services help organizations achieve their goals and make a meaningful impact.
 
                         Our mission includes promoting Beninese culture and embracing diverse foreign and diasporic
                         values. By connecting Beninese culture with the world, we create opportunities for cultural
-                        exchange and mutual growth.<br>
+                        exchange and mutual growth.
 
                         Join us in celebrating diversity and building connections for a more inclusive and understanding
                         world.</p>
@@ -420,7 +420,7 @@
                 <div class="col-lg-4">
                     <div class="testimonial-content-wrap pb-4">
                         <div class="section-heading') }}">
-                            <h2 class="section__title mb-3">From the BRIDGE LANGUAGE AND CULTURE INSTITUTE community
+                            <h2 class="section__title mb-3">From the BRIDGE community
                             </h2>
                             <p class="section__desc">
                                 Donec vitae orci sed dolor rutrum auctor. Duis arcu tortor, suscipit eget, imperdiet nec
@@ -433,8 +433,8 @@
                     </div>
                 </div><!-- end col-lg-4 -->
                 <div class="col-lg-8">
-                    <h3 class="fs-22 font-weight-medium pb-3">30+ million people are already learning on BRIDGE
-                        LANGUAGE AND CULTURE INSTITUTE</h3>
+                    <h3 class="fs-22 font-weight-medium pb-3">30+ Hundred people are already learning on BRIDGE
+                    </h3>
                     <div class="testimonial-carousel-2 owl-action-styled owl-action-styled-2">
                         <div class="card card-item">
                             <div class="card-body">
