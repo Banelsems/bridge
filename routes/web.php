@@ -24,6 +24,9 @@ Route::get('/', function () {
     return view('livewire.front.layouts.master');
 });
 
+Route::get('/', function () {
+    return redirect('/home');
+});
 // Route::redirect('/', '/home', 301); 
 
 Route::get('/home', Home::class)->name('home');
