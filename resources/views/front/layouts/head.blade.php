@@ -35,6 +35,7 @@
         <link rel="stylesheet" href="{{ asset('assets/css/fancybox.css')}}">
         <link rel="stylesheet" href="{{ asset('assets/css/tooltipster.bundle.css')}}">
         <link rel="stylesheet" href="{{ asset('assets/css/style.css')}}">
+        <link rel="stylesheet" href="{{ asset("assets/css/bridgeLogo.css") }}">
         <!-- end inject -->
 
 

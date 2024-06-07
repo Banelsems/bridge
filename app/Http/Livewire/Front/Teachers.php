@@ -8,6 +8,6 @@ class Teachers extends Component
 {
     public function render()
     {
-        return view('livewire.front.teachers');
+        return view('livewire.front.teachers')->extends('front.layouts.master')->section('main-content');
     }
 }

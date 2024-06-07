@@ -57,7 +57,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-2">
                         <div class="logo-box">
-                            <a href="index.html" class="logo"><img src="{{ asset('assets/images/logo.png') }}" style="height: 100px;"
+                            <a href="index.html" class="logo"><img src="{{ asset('assets/images/logo.png') }}"
                                     alt="logo"></a>
                             <div class="user-btn-action">
                                 <div class="search-menu-toggle icon-element icon-element-sm shadow-sm mr-2"
@@ -87,10 +87,10 @@
                                         <a href="{{ route('about') }}" class="">About </a>
                                     </li>
                                     <li>
-                                        <a href="#" class="">Courses </a>
+                                        <a href="{{ route('courses') }}" class="">Courses </a>
                                     </li>
                                     <li>
-                                        <a href="#" class="">Teachers </a>
+                                        <a href="{{ route('teachers') }}" class="">Teachers </a>
                                     </li>
                                     <li>
                                         <a href="#" class="">Blog </a>
