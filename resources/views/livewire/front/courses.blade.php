@@ -12,11 +12,12 @@
                     </div>
                     <ul
                         class="generic-list-item generic-list-item-white generic-list-item-arrow d-flex flex-wrap align-items-center">
-                        <li><a href="{{ route("home") }}">Home</a></li>
+                        <li><a href="{{ route('home') }}">Home</a></li>
                         <li>Courses</li>
                         <li>Course List</li>
                     </ul>
-                </div><!-- end breadcrumb-content -->
+                </div>
+                <!-- end breadcrumb-content -->
             </div><!-- end container -->
         </section><!-- end breadcrumb-area -->
         <!-- ================================
@@ -562,7 +563,8 @@
                             data-tooltip-content="#tooltip_content_1">
                             <div class="card-image">
                                 <a href="course-details.html" class="d-block">
-                                    <img class="card-img-top lazy" src="{{ asset('assets/images/learn-french-language-online-education-concept(1).jpg') }}"
+                                    <img class="card-img-top lazy"
+                                        src="{{ asset('assets/images/learn-french-language-online-education-concept(1).jpg') }}"
                                         data-src="images/img8.jpg" alt="Card image cap">
                                 </a>
                                 {{-- <div class="course-badge-labels">
@@ -599,7 +601,8 @@
                             data-tooltip-content="#tooltip_content_1">
                             <div class="card-image">
                                 <a href="course-details.html" class="d-block">
-                                    <img class="card-img-top lazy" src="{{ asset('assets/images/learn-english-language-online-education-concept(1).jpg') }}"
+                                    <img class="card-img-top lazy"
+                                        src="{{ asset('assets/images/learn-english-language-online-education-concept(1).jpg') }}"
                                         data-src="images/img9.jpg" alt="Card image cap">
                                 </a>
                                 {{-- <div class="course-badge-labels">
@@ -634,7 +637,8 @@
                             data-tooltip-content="#tooltip_content_1">
                             <div class="card-image">
                                 <a href="course-details.html" class="d-block">
-                                    <img class="card-img-top lazy" src="{{ asset('assets/images/learn-german-language-online-education-concept(1).jpg') }}"
+                                    <img class="card-img-top lazy"
+                                        src="{{ asset('assets/images/learn-german-language-online-education-concept(1).jpg') }}"
                                         data-src="images/img10.jpg" alt="Card image cap">
                                 </a>
                             </div><!-- end card-image -->
@@ -661,7 +665,7 @@
                             </div><!-- end card-body -->
                         </div><!-- end card -->
                     </div><!-- end col-lg-12 -->
-                    
+
                     {{-- <div class="col-lg-12">
                         <div class="card card-item card-preview card-item-list-layout"
                             data-tooltip-content="#tooltip_content_1">

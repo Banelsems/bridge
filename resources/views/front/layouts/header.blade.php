@@ -99,7 +99,7 @@
                                         <a href="#" class="">FAQs </a>
                                     </li>
                                     <li>
-                                        <a href="#" class="">Contact </a>
+                                        <a href="{{ route('contact') }}" class="">Contact </a>
                                     </li>
 
                                     {{-- <li>

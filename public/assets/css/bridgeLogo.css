@@ -26,3 +26,17 @@
     background-position: bottom;
     background-repeat: no-repeat;
 }
+
+.teacherBanner{
+    background: url('../images/medium-shot-smiley-woman-with-white-board.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.contactBanner{
+    background: url('../images/computer-with-contact-symbols-internet-communication.jpg');
+    background-size:cover;
+    background-position: top;
+    background-repeat: no-repeat;
+}

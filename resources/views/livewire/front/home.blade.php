@@ -1706,7 +1706,7 @@
         END SUBSCRIBER AREA
 ======================================-->
 
-    <!-- ================================
+    {{-- <!-- ================================
          END FOOTER AREA
 ================================= -->
     <section class="footer-area pt-100px">
@@ -1737,7 +1737,7 @@
                 <div class="col-lg-3 responsive-column-half">
                     <div class="footer-item">
                         <h3 class="fs-20 font-weight-semi-bold">bridgelanguageinstitut</h3>
-                        {{-- <span class="section-divider section--divider"></span> --}}
+                        <span class="section-divider section--divider"></span>
                     </div><!-- end footer-item -->
                 </div><!-- end col-lg-3 -->
             </div><!-- end row -->
@@ -1786,7 +1786,7 @@
     </section><!-- end footer-area -->
     <!-- ================================
           END FOOTER AREA
-================================= -->
+================================= --> --}}
 
     <!-- start scroll top -->
     <div id="scroll-top">

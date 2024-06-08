@@ -47,6 +47,7 @@
         </div> --}}
     
         <!-- End of Main Content -->
+        @include("admin.layouts.bridgeFooter")
         @include('front.layouts.footer')
         @stack('scripts')
     
