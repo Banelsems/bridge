@@ -402,6 +402,7 @@
                         </div>
                     </div><!-- end card -->
                 </div><!-- end col-lg-3 -->
+                
             </div><!-- end row -->
         </div><!-- end container -->
     </section><!-- end team-member-area -->

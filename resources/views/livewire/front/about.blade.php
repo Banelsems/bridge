@@ -36,16 +36,17 @@
                     <div class="about-content pb-5">
                         <div class="section-heading') }}">
                             <h2 class="section__title pb-3 lh-50">Our Vision</h2>
-                            <p class="section__desc">To be the bridge connecting Beninese and other cultures. Promoting
+                            <p class="section__desc">Being the bridge connecting Beninese and other cultures. Promoting
                                 intercultural communication through Beninese, foreign, and diasporic languages and
                                 cultural values.</p>
                         </div><!-- end section-heading -->
                         <ul class="generic-list-item pt-3">
-                            <li><i class="la la-check-circle mr-2 text-success"></i>Serve as the link between Beninese
+                            <li><i class="la la-check-circle mr-2 text-success"></i>Serving as the link between Benin
                                 and global cultures.</li>
-                            <li><i class="la la-check-circle mr-2 text-success"></i>Foster intercultural communication
+                            <li><i class="la la-check-circle mr-2 text-success"></i>Fostering intercultural
+                                communication
                                 through languages.</li>
-                            <li><i class="la la-check-circle mr-2 text-success"></i>Promote Beninese, foreign, and
+                            <li><i class="la la-check-circle mr-2 text-success"></i>Promoting Benin, foreign, and
                                 diasporic cultural values.</li>
                         </ul>
                     </div><!-- end about-content -->
@@ -56,24 +57,26 @@
                             <img class="lazy" src="{{ asset('assets/images/mg-loading.png') }}"') }}"
                                 data-src="{{ asset('assets/images/Instructors.jpg') }}" alt="Instructors image">
                             <div class="generic-img-box-content">
-                                <h3 class="fs-24 font-weight-semi-bold pb-1">55K</h3>
-                                <span>Instructors</span>
+                                <h3 class="fs-24 font-weight-semi-bold">Translation</h3>
+                                <h3 class="fs-24 font-weight-semi-bold"> Interpretation
+                                </h3>
                             </div>
                         </div>
                         <div class="img__item img__item-2">
                             <img class="lazy" src="{{ asset('assets/images/mg-loading.png') }}"') }}"
                                 data-src="{{ asset('assets/images/Courses.jpg') }}" alt="Courses image">
                             <div class="generic-img-box-content">
-                                <h3 class="fs-24 font-weight-semi-bold pb-1">6,900+</h3>
-                                <span>Courses</span>
+                                <h3 class="fs-24 font-weight-semi-bold pb-1">Formations</h3>
+                                {{-- <span></span> --}}
                             </div>
                         </div>
                         <div class="img__item img__item-3">
                             <img class="lazy" src="{{ asset('assets/images/mg-loading.png') }}"') }}"
                                 data-src="{{ asset('assets/images/Learners.jpg') }}" alt="Learners image">
                             <div class="generic-img-box-content">
-                                <h3 class="fs-24 font-weight-semi-bold pb-1">40M</h3>
-                                <span>Learners</span>
+                                <h3 class="fs-24 font-weight-semi-bold">Interculture</h3>
+                                <h3 class="fs-24 font-weight-semi-bold">Mediation</h3>
+                                {{-- <span></span> --}}
                             </div>
                         </div>
                     </div><!-- end generic-img-box -->
@@ -209,7 +212,7 @@
             <div class="story-content text-center">
                 <div class="section-heading') }}">
                     <h2 class="section__title pb-3 lh-50">Our Story</h2>
-                    <p class="section__desc">SOur organization was founded to bridge cultures and foster intercultural
+                    <p class="section__desc">Our organization was founded to bridge cultures and foster intercultural
                         communication. We aim to enhance Benin's socio-cultural and economic presence on national,
                         regional, and international stages.<br>
 
@@ -275,8 +278,8 @@
                                 alt="team member">
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title"><a href="#">Alex Smith</a></h5>
-                            <p class="card-text">Founder And CEO</p>
+                            <h5 class="card-title"><a href="#">AMOUSSOU Christian</a></h5>
+                            <p class="card-text">CEO</p>
                             <ul class="social-icons social-icons-styled social--icons-styled pt-4">
                                 <li><a href="#"><i class="la la-facebook"></i></a></li>
                                 <li><a href="#"><i class="la la-twitter"></i></a></li>
@@ -292,8 +295,8 @@
                                 alt="team member">
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title"><a href="#">Rose Taylor</a></h5>
-                            <p class="card-text">President And Co-CEO</p>
+                            <h5 class="card-title"><a href="#">ALKOIRET Rodrigue</a></h5>
+                            <p class="card-text">Professor & Coach</p>
                             <ul class="social-icons social-icons-styled social--icons-styled pt-4">
                                 <li><a href="#"><i class="la la-facebook"></i></a></li>
                                 <li><a href="#"><i class="la la-twitter"></i></a></li>
@@ -309,8 +312,8 @@
                                 alt="team member">
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title"><a href="#">Jef Collin</a></h5>
-                            <p class="card-text">Chief Technology Officer</p>
+                            <h5 class="card-title"><a href="#">ALOHOUTADE Martine</a></h5>
+                            <p class="card-text">Professor & Coach</p>
                             <ul class="social-icons social-icons-styled social--icons-styled pt-4">
                                 <li><a href="#"><i class="la la-facebook"></i></a></li>
                                 <li><a href="#"><i class="la la-twitter"></i></a></li>
@@ -326,8 +329,8 @@
                                 alt="team member">
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title"><a href="#">Mike Hardson</a></h5>
-                            <p class="card-text">Chief Marketing Officer</p>
+                            <h5 class="card-title"><a href="#">HONVO Nanette</a></h5>
+                            <p class="card-text">Secretary</p>
                             <ul class="social-icons social-icons-styled social--icons-styled pt-4">
                                 <li><a href="#"><i class="la la-facebook"></i></a></li>
                                 <li><a href="#"><i class="la la-twitter"></i></a></li>
@@ -343,8 +346,8 @@
                                 alt="team member">
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title"><a href="#">John Smith</a></h5>
-                            <p class="card-text">Vice President Of Product</p>
+                            <h5 class="card-title"><a href="#">LAWSON Loîc</a></h5>
+                            <p class="card-text">Multimedia Scriptwriters</p>
                             <ul class="social-icons social-icons-styled social--icons-styled pt-4">
                                 <li><a href="#"><i class="la la-facebook"></i></a></li>
                                 <li><a href="#"><i class="la la-twitter"></i></a></li>
@@ -360,8 +363,8 @@
                                 alt="team member">
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title"><a href="#">Kevin Martin</a></h5>
-                            <p class="card-text">Vice President Of Services</p>
+                            <h5 class="card-title"><a href="#">CAKPO Gilchrist</a></h5>
+                            <p class="card-text">Multimedia Scriptwriters</p>
                             <ul class="social-icons social-icons-styled social--icons-styled pt-4">
                                 <li><a href="#"><i class="la la-facebook"></i></a></li>
                                 <li><a href="#"><i class="la la-twitter"></i></a></li>
@@ -377,8 +380,8 @@
                                 alt="team member">
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title"><a href="#">Tisham Elerdy</a></h5>
-                            <p class="card-text">VP, Operations</p>
+                            <h5 class="card-title"><a href="#">MONTCHO-K. Josué</a></h5>
+                            <p class="card-text">IT Project Manager</p>
                             <ul class="social-icons social-icons-styled social--icons-styled pt-4">
                                 <li><a href="#"><i class="la la-facebook"></i></a></li>
                                 <li><a href="#"><i class="la la-twitter"></i></a></li>
@@ -394,8 +397,8 @@
                                 alt="team member">
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title"><a href="#">Alper Doein</a></h5>
-                            <p class="card-text">Chief Financial Officer</p>
+                            <h5 class="card-title"><a href="#">ZANNOU Ernest</a></h5>
+                            <p class="card-text">Translation Manager</p>
                             <ul class="social-icons social-icons-styled social--icons-styled pt-4">
                                 <li><a href="#"><i class="la la-facebook"></i></a></li>
                                 <li><a href="#"><i class="la la-twitter"></i></a></li>
@@ -404,6 +407,24 @@
                         </div>
                     </div><!-- end card -->
                 </div><!-- end col-lg-3 -->
+                <div class="col-lg-3 responsive-column-half">
+                    <div class="card card-item member-card text-center">
+                        <div class="card-image">
+                            <img class="card-img-top" src="{{ asset('assets/images/small-avatar-6.jpg') }}"
+                                alt="team member">
+                        </div>
+                        <div class="card-body">
+                            <h5 class="card-title"><a href="#">FITILA Antoine</a></h5>
+                            <p class="card-text">Human Resources Manager</p>
+                            <ul class="social-icons social-icons-styled social--icons-styled pt-4">
+                                <li><a href="#"><i class="la la-facebook"></i></a></li>
+                                <li><a href="#"><i class="la la-twitter"></i></a></li>
+                                <li><a href="#"><i class="la la-instagram"></i></a></li>
+                            </ul>
+                        </div>
+                    </div><!-- end card -->
+                </div><!-- end col-lg-3 -->
+                
             </div><!-- end row -->
         </div><!-- end container -->
     </section><!-- end team-member-area -->

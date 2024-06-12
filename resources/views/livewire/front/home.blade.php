@@ -116,7 +116,7 @@
     <section class="feature-area pb-90px">
         <div class="container">
             <div class="row feature-content-wrap">
-                <div class="col-lg-4 responsive-column-half">
+                <div class="col-lg-3 responsive-column-half">
                     <div class="info-box">
                         <div class="info-overlay"></div>
                         <div class="icon-element mx-auto shadow-sm">
@@ -171,37 +171,11 @@
                                 </g>
                             </svg>
                         </div>
-                        <h3 class="info__title">Expert Teachers</h3>
-                        <p class="info__text">Our skilled instructors ensure rapid language acquisition through
-                            innovative methods.
-                        </p>
+                        <h3 class="info__title">Training</h3>
+                        <p class="info__text">Our qualified instructors guarantee rapid learning of foreign and local languages</p>
                     </div><!-- end info-box -->
                 </div><!-- end col-lg-3 -->
-                <div class="col-lg-4 responsive-column-half">
-                    <div class="info-box">
-                        <div class="info-overlay"></div>
-                        <div class="icon-element mx-auto shadow-sm">
-                            <svg class="svg-icon-color-2" viewBox="0 0 74 74" width="45"
-                                xmlns="http://www.w3.org/2000/svg">
-                                <path
-                                    d="m31.841 26.02a1 1 0 0 1 -.52-1.855l2.59-1.57a1 1 0 1 1 1.037 1.71l-2.59 1.57a1 1 0 0 1 -.517.145z" />
-                                <path
-                                    d="m57.42 58.09a.985.985 0 0 1 -.294-.045l-20.09-6.179a1 1 0 0 1 -.546-1.5l26.054-40.382-39.324 38.55a1 1 0 0 1 -1.087.208l-16.76-7.03a1 1 0 0 1 -.131-1.777l11.358-6.871a1 1 0 0 1 1.035 1.711l-9.675 5.853 14.334 6.013 39.106-38.341-20.363 12.316a1 1 0 0 1 -1.037-1.716l27.709-16.747a1 1 0 0 1 .372-.14s0 0 0 0a.986.986 0 0 1 .156-.013 1 1 0 0 1 .609.206l.079.067a1 1 0 0 1 .312.713 1.023 1.023 0 0 1 -.023.227l-10.814 54.073a1 1 0 0 1 -.98.8zm-18.533-7.747 17.769 5.466 9.572-47.844z" />
-                                <path
-                                    d="m23.221 31.23a1 1 0 0 1 -.519-1.856l2.53-1.53a1 1 0 0 1 1.036 1.712l-2.531 1.53a1 1 0 0 1 -.516.144z" />
-                                <path
-                                    d="m28.7 72h-.072a1 1 0 0 1 -.894-.74l-6.178-23.184a1 1 0 1 1 1.931-.515l5.438 20.389 7.488-17.435a1 1 0 1 1 1.838.789l-8.629 20.096a1 1 0 0 1 -.922.6z" />
-                                <path
-                                    d="m28.709 72a1 1 0 0 1 -.736-1.677l16.092-17.515a1 1 0 0 1 1.473 1.354l-16.093 17.515a1 1 0 0 1 -.736.323z" />
-                            </svg>
-                        </div>
-                        <h3 class="info__title">Easy Communication</h3>
-                        <p class="info__text">Our institute prioritizes seamless interaction, fostering effective
-                            ommunication.
-                        </p>
-                    </div><!-- end info-box -->
-                </div><!-- end col-lg-3 -->
-                <div class="col-lg-4 responsive-column-half">
+                <div class="col-lg-3 responsive-column-half">
                     <div class="info-box">
                         <div class="info-overlay"></div>
                         <div class="icon-element mx-auto shadow-sm">
@@ -228,6 +202,55 @@
                         </p>
                     </div><!-- end info-box -->
                 </div><!-- end col-lg-3 -->
+                <div class="col-lg-3 responsive-column-half">
+                    <div class="info-box">
+                        <div class="info-overlay"></div>
+                        <div class="icon-element mx-auto shadow-sm">
+                            <svg class="svg-icon-color-3" viewBox="0 0 74 74" width="50"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path
+                                    d="m23.8 23.84a1 1 0 0 1 -.294-1.956l5.96-1.84a1 1 0 0 1 .59 1.912l-5.956 1.844a.981.981 0 0 1 -.3.04z" />
+                                <path
+                                    d="m37 43.84a1.009 1.009 0 0 1 -.37-.071l-34-13.561a1 1 0 0 1 .07-1.883l5.29-1.64a1 1 0 0 1 .592 1.91l-2.592.8 31.01 12.368 25.9-10.325a1.015 1.015 0 0 1 .12-.057l4.98-1.981-31-9.593-2.165.669a1 1 0 1 1 -.59-1.912l2.46-.76a1 1 0 0 1 .59 0l34 10.52a1 1 0 0 1 .075 1.884l-7.49 2.982a.95.95 0 0 1 -.12.058l-26.39 10.521a1.009 1.009 0 0 1 -.37.071z" />
+                                <path
+                                    d="m13.069 27.161a1 1 0 0 1 -.3-1.956l5.951-1.841a1 1 0 1 1 .59 1.911l-5.95 1.841a1.013 1.013 0 0 1 -.291.045z" />
+                                <path d="m16.8 47.849a1 1 0 0 1 -1-1v-12.064a1 1 0 1 1 2 0v12.064a1 1 0 0 1 -1 1z" />
+                                <path d="m57.188 47.849a1 1 0 0 1 -1-1v-12.064a1 1 0 0 1 2 0v12.064a1 1 0 0 1 -1 1z" />
+                                <path
+                                    d="m37 56.239c-11.884 0-21.193-4.123-21.193-9.386a1 1 0 1 1 2 0c0 3.493 7.882 7.386 19.193 7.386s19.193-3.893 19.193-7.386a1 1 0 1 1 2 0c0 5.263-9.309 9.386-21.193 9.386z" />
+                                <path
+                                    d="m63.393 44.387a1 1 0 0 1 -1-1v-10.2l-25.529-3.5a1 1 0 1 1 .272-1.982l26.393 3.615a1 1 0 0 1 .864.991v11.076a1 1 0 0 1 -1 1z" />
+                                <path
+                                    d="m66.406 49.5h-5.687a1 1 0 0 1 -.978-1.211l.736-3.411a3.156 3.156 0 0 1 6.171 0l.736 3.411a1 1 0 0 1 -.978 1.211zm-4.448-2h3.209l-.474-2.2a1.157 1.157 0 0 0 -2.261 0z" />
+                            </svg>
+                        </div>
+                        <h3 class="info__title">Interpretation</h3>
+                        <p class="info__text">Our team guarantees the best interpretation of your conferences</p>
+                    </div><!-- end info-box -->
+                </div><!-- end col-lg-3 -->
+                <div class="col-lg-3 responsive-column-half">
+                    <div class="info-box">
+                        <div class="info-overlay"></div>
+                        <div class="icon-element mx-auto shadow-sm">
+                            <svg class="svg-icon-color-2" viewBox="0 0 74 74" width="45"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path
+                                    d="m31.841 26.02a1 1 0 0 1 -.52-1.855l2.59-1.57a1 1 0 1 1 1.037 1.71l-2.59 1.57a1 1 0 0 1 -.517.145z" />
+                                <path
+                                    d="m57.42 58.09a.985.985 0 0 1 -.294-.045l-20.09-6.179a1 1 0 0 1 -.546-1.5l26.054-40.382-39.324 38.55a1 1 0 0 1 -1.087.208l-16.76-7.03a1 1 0 0 1 -.131-1.777l11.358-6.871a1 1 0 0 1 1.035 1.711l-9.675 5.853 14.334 6.013 39.106-38.341-20.363 12.316a1 1 0 0 1 -1.037-1.716l27.709-16.747a1 1 0 0 1 .372-.14s0 0 0 0a.986.986 0 0 1 .156-.013 1 1 0 0 1 .609.206l.079.067a1 1 0 0 1 .312.713 1.023 1.023 0 0 1 -.023.227l-10.814 54.073a1 1 0 0 1 -.98.8zm-18.533-7.747 17.769 5.466 9.572-47.844z" />
+                                <path
+                                    d="m23.221 31.23a1 1 0 0 1 -.519-1.856l2.53-1.53a1 1 0 0 1 1.036 1.712l-2.531 1.53a1 1 0 0 1 -.516.144z" />
+                                <path
+                                    d="m28.7 72h-.072a1 1 0 0 1 -.894-.74l-6.178-23.184a1 1 0 1 1 1.931-.515l5.438 20.389 7.488-17.435a1 1 0 1 1 1.838.789l-8.629 20.096a1 1 0 0 1 -.922.6z" />
+                                <path
+                                    d="m28.709 72a1 1 0 0 1 -.736-1.677l16.092-17.515a1 1 0 0 1 1.473 1.354l-16.093 17.515a1 1 0 0 1 -.736.323z" />
+                            </svg>
+                        </div>
+                        <h3 class="info__title">Translation</h3>
+                        <p class="info__text">We guarantee the best possible translation of documents and audiovisual material.</p>
+                    </div><!-- end info-box -->
+                </div><!-- end col-lg-3 -->
+                
             </div><!-- end row -->
         </div><!-- end container -->
     </section><!-- end feature-area -->
@@ -1351,8 +1374,8 @@
             <div class="client-logo-carousel pt-4">
                 <a href="#" class="client-logo-item"><img src="{{ asset('assets/images/sponsor-img.png') }}"
                         alt="brand image"></a>
-                <a href="#" class="client-logo-item"><img src="{{ asset('assets/images/sponsor-img2.png') }}" style="width: 100px;height: 100px"
-                        alt="brand image"></a>
+                <a href="#" class="client-logo-item"><img src="{{ asset('assets/images/sponsor-img2.png') }}"
+                        style="width: 100px;height: 100px" alt="brand image"></a>
                 <a href="#" class="client-logo-item"><img src="{{ asset('assets/images/sponsor-img3.jpeg') }}"
                         alt="brand image"></a>
                 <a href="#" class="client-logo-item"><img src="{{ asset('assets/images/sponsor-img4.jpeg') }}"
@@ -1380,7 +1403,8 @@
                 <div class="card card-item">
                     <div class="card-image">
                         <a href="blog-single.html" class="d-block">
-                            <img class="card-img-top" src="{{ asset('assets/images/img8.jpg') }}" alt="Card image cap">
+                            <img class="card-img-top" src="{{ asset('assets/images/img8.jpg') }}"
+                                alt="Card image cap">
                         </a>
                         <div class="course-badge-labels">
                             <div class="course-badge">Jan 24, 2020</div>
@@ -1416,7 +1440,8 @@
                 <div class="card card-item">
                     <div class="card-image">
                         <a href="blog-single.html" class="d-block">
-                            <img class="card-img-top" src="{{ asset('assets/images/img9.jpg') }}" alt="Card image cap">
+                            <img class="card-img-top" src="{{ asset('assets/images/img9.jpg') }}"
+                                alt="Card image cap">
                         </a>
                         <div class="course-badge-labels">
                             <div class="course-badge">Jan 24, 2020</div>
@@ -1452,7 +1477,8 @@
                 <div class="card card-item">
                     <div class="card-image">
                         <a href="blog-single.html" class="d-block">
-                            <img class="card-img-top" src="{{ asset('assets/images/img10.jpg') }}" alt="Card image cap">
+                            <img class="card-img-top" src="{{ asset('assets/images/img10.jpg') }}"
+                                alt="Card image cap">
                         </a>
                         <div class="course-badge-labels">
                             <div class="course-badge">Jan 24, 2020</div>
@@ -1488,7 +1514,8 @@
                 <div class="card card-item">
                     <div class="card-image">
                         <a href="blog-single.html" class="d-block">
-                            <img class="card-img-top" src="{{ asset('assets/images/img11.jpg') }}" alt="Card image cap">
+                            <img class="card-img-top" src="{{ asset('assets/images/img11.jpg') }}"
+                                alt="Card image cap">
                         </a>
                         <div class="course-badge-labels">
                             <div class="course-badge">Jan 24, 2020</div>
@@ -1524,7 +1551,8 @@
                 <div class="card card-item">
                     <div class="card-image">
                         <a href="blog-single.html" class="d-block">
-                            <img class="card-img-top" src="{{ asset('assets/images/img12.jpg') }}" alt="Card image cap">
+                            <img class="card-img-top" src="{{ asset('assets/images/img12.jpg') }}"
+                                alt="Card image cap">
                         </a>
                         <div class="course-badge-labels">
                             <div class="course-badge">Jan 24, 2020</div>
@@ -1560,7 +1588,8 @@
                 <div class="card card-item">
                     <div class="card-image">
                         <a href="blog-single.html" class="d-block">
-                            <img class="card-img-top" src="{{ asset('assets/images/img13.jpg') }}" alt="Card image cap">
+                            <img class="card-img-top" src="{{ asset('assets/images/img13.jpg') }}"
+                                alt="Card image cap">
                         </a>
                         <div class="course-badge-labels">
                             <div class="course-badge">Jan 24, 2020</div>
@@ -1615,8 +1644,8 @@
                 <div class="col-lg-4 responsive-column-half">
                     <div class="card card-item hover-s text-center">
                         <div class="card-body">
-                            <img src="{{ asset('assets/images/small-img-2.jpg') }}"
-                                alt="card image" class="img-fluid rounded-full lazy">
+                            <img src="{{ asset('assets/images/small-img-2.jpg') }}" alt="card image"
+                                class="img-fluid rounded-full lazy">
                             <h5 class="card-title pt-4 pb-2">Become an Instructor</h5>
                             <p class="card-text">Teach what you love. Bridge gives you the tools to create a course.
                             </p>

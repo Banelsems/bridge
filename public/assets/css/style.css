@@ -7772,7 +7772,10 @@ div.datedropper .picker .pick-lg-b li {
 
 /*-=========== hero-bg ==========-*/
 .hero-bg-1 {
-    background-image: url("../images/slider-img1.jpg");
+    background-image: url("../images/breadcrumb-bg-2.jpg");
+    background-position: center center; /* horizontal vertical */
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .hero-bg-2 {
